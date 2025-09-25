@@ -1,1 +1,2 @@
-# Repository for final project
+# Introduction
+This is a simple endpoint that performs emotion analysis of input text by IBM Watson AI suite. The output is a statement breaking down the emotional score in terms of anger, disgust, fear, joy and sadness. In addition, the dominant emotion will also be returned.
