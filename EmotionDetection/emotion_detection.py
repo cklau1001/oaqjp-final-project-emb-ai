@@ -28,7 +28,7 @@ def emotion_detector(text_to_analyse: str) -> dict:
     emotion_response = {
         'anger': float(emotion_response["anger"]),
         'disgust': float(emotion_response["disgust"]),
-        'fear': float(emotion_response["disgust"]),
+        'fear': float(emotion_response["fear"]),
         'joy': float(emotion_response["joy"]),
         'sadness': float(emotion_response["sadness"]),            
     }
